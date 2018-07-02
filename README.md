@@ -23,5 +23,5 @@ Clonar el proyecto del siguiente repositorio: https://github.com/mlennard-utn/in
 
 Utilizar alguna extension de Google Chrome (buscar Rest Client Chrome Extension) para probar las peticiones HTTP.
 
-FORMA DE ENTREGA: Enviar correo electronico a mlennard-utn@gmail.com con la URL de su repositorio personal con el TP resuelto.
+FORMA DE ENTREGA: Enviar correo electronico a mlennard.utn@gmail.com con la URL de su repositorio personal con el TP resuelto.
 FECHA DE ENTREGA: 27/06
